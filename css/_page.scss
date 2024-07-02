@@ -359,6 +359,7 @@ section.boardv{
                 margin-bottom: 24px;
                 overflow: hidden;
                 height: 350px;
+                border-radius: 20px;
                 @include PC-sm {
                     height: 280px;
                 }

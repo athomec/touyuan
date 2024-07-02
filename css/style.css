@@ -7252,6 +7252,7 @@ section.basic {
   margin-bottom: 24px;
   overflow: hidden;
   height: 350px;
+  border-radius: 20px;
 }
 
 @media (max-width: 991px) {
