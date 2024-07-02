@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64.025" height="63.673" viewBox="0 0 64.025 63.673">
+  <g id="ic-zoom" transform="translate(-922.025 -2040.327)">
+    <rect id="Rectangle_172" data-name="Rectangle 172" width="29" height="29" transform="translate(957.051 2075)" fill="#fdf9d8"/>
+    <path id="Path_709" data-name="Path 709" d="M3853.146,2057.832l-63.673,63.673h43.8s19.255-3.423,19.876-20.194S3853.146,2057.832,3853.146,2057.832Z" transform="translate(-2867.448 -17.505)" fill="#fdf9d8"/>
+    <g id="zoom-in" transform="translate(960 2075)">
+      <path id="Path_710" data-name="Path 710" d="M6.5,12A5.5,5.5,0,1,0,1,6.5,5.5,5.5,0,0,0,6.5,12M13,6.5A6.5,6.5,0,1,1,6.5,0,6.5,6.5,0,0,1,13,6.5" fill="#e4877c" fill-rule="evenodd"/>
+      <path id="Path_711" data-name="Path 711" d="M10.344,11.742a1.053,1.053,0,0,0,.1.115l3.85,3.85a1,1,0,0,0,1.415-1.414l-3.85-3.85a1,1,0,0,0-.115-.1,6.5,6.5,0,0,1-1.4,1.4Z" fill="#e4877c"/>
+      <path id="Path_712" data-name="Path 712" d="M6.5,3a.5.5,0,0,1,.5.5V6H9.5a.5.5,0,0,1,0,1H7V9.5a.5.5,0,0,1-1,0V7H3.5a.5.5,0,0,1,0-1H6V3.5A.5.5,0,0,1,6.5,3" fill="#e4877c" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
