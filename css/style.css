@@ -6980,6 +6980,43 @@ footer .ftlogo {
 /* --------------內容設定開始--------------- */
 section.basic {
   padding-top: 40px;
+  background: url("../images/bg-mountain.svg") -5% bottom no-repeat, url("../images/bg-peach.svg") 100% bottom no-repeat;
+  background-size: 600px,280px;
+}
+
+@media (max-width: 1650px) {
+  section.basic {
+    background: url("../images/bg-mountain.svg") -8% bottom no-repeat, url("../images/bg-peach.svg") 100% bottom no-repeat;
+    background-size: 450px,220px;
+  }
+}
+
+@media (max-width: 1450px) {
+  section.basic {
+    background: url("../images/bg-mountain.svg") -15% bottom no-repeat, url("../images/bg-peach.svg") 100% bottom no-repeat;
+    background-size: 400px,180px;
+  }
+}
+
+@media (max-width: 991px) {
+  section.basic {
+    background: url("../images/bg-mountain.svg") -15% bottom no-repeat, url("../images/bg-peach.svg") 100% bottom no-repeat;
+    background-size: 350px,180px;
+  }
+}
+
+@media (max-width: 768px) {
+  section.basic {
+    background: url("../images/bg-mountain.svg") -20% bottom no-repeat, url("../images/bg-peach.svg") 105% bottom no-repeat;
+    background-size: 300px,150px;
+  }
+}
+
+@media (max-width: 675px) {
+  section.basic {
+    background: url("../images/bg-mountain.svg") -10% bottom no-repeat, url("../images/bg-peach.svg") 105% bottom no-repeat;
+    background-size: 200px,100px;
+  }
 }
 
 @media (max-width: 1200px) {
